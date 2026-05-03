@@ -1,6 +1,6 @@
 # Relay ASA
 
-**Automated Support Assistant — a desktop ticket management tool with AI-assisted drafting, built solo from scratch.**
+**Automated Support Assistant — a desktop ticket management tool with AI-assisted drafting.**
 
 ![Java 21](https://img.shields.io/badge/Java-21-blue?logo=openjdk)
 ![JavaFX 21](https://img.shields.io/badge/JavaFX-21-blue)
