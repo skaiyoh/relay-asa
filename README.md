@@ -1,6 +1,6 @@
-# Relay SupportBot
+# Relay ASA
 
-**A desktop support ticket management tool with AI-assisted drafting — built solo from scratch.**
+**Automated Support Assistant — a desktop ticket management tool with AI-assisted drafting, built solo from scratch.**
 
 ![Java 21](https://img.shields.io/badge/Java-21-blue?logo=openjdk)
 ![JavaFX 21](https://img.shields.io/badge/JavaFX-21-blue)
@@ -31,7 +31,7 @@
 
 I run an SMM panel and handle customer support tickets daily. The built-in admin tool had no conversation history, no draft assistance, no way to verify order ownership before responding, and no protection against duplicate or stale replies.
 
-I built Relay SupportBot to fix that. It's a JavaFX desktop app that syncs tickets from an external panel API, stores the full conversation history locally in SQLite, generates AI draft replies via OpenAI, and enforces a human-in-the-loop approval before anything is sent. Every design decision prioritizes safety — replies are customer-facing and irreversible, so the system is built to fail closed rather than fail open.
+I built Relay ASA to fix that. It's a JavaFX desktop app that syncs tickets from an external panel API, stores the full conversation history locally in SQLite, generates AI draft replies via OpenAI, and enforces a human-in-the-loop approval before anything is sent. Every design decision prioritizes safety — replies are customer-facing and irreversible, so the system is built to fail closed rather than fail open.
 
 ---
 

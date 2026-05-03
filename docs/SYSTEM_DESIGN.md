@@ -4,7 +4,7 @@
 
 ## 1. Purpose
 
-SupportBot is a local JavaFX desktop application for managing SMM support tickets through the Perfect Panel Admin API. It centralizes ticket review, stores complete ticket history locally, generates AI-assisted draft replies, and keeps a human in the loop for every outbound reply in V1.
+Relay ASA (Automated Support Assistant) is a local JavaFX desktop application for managing SMM support tickets through the Perfect Panel Admin API. It centralizes ticket review, stores complete ticket history locally, generates AI-assisted draft replies, and keeps a human in the loop for every outbound reply in V1.
 
 ## 2. Goals
 
