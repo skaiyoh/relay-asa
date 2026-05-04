@@ -18,13 +18,15 @@
 | ![Review Queue](screenshots/review_queue.png) |
 
 | Ticket & Order Tools |
+|:---:|
 | ![Ticket Tools](screenshots/ticket_tools.png) |
 
 | Service Catalog |
-|:---:|:---:|
+|:---:|
 | ![Services](screenshots/service_catalog.png) |
 
 | Settings |
+|:---:|
 |![Settings](screenshots/settings.png) |
 
 | Business Rules |
