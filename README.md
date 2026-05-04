@@ -71,17 +71,6 @@ I built Relay ASA to fix that. It's a JavaFX desktop app that syncs tickets from
 
 ---
 
-## Engineering Highlights
-
-- **Safety-first architecture** — human approval required for every outbound reply; fail-closed defaults if config is corrupted
-- **Layered design** — clean separation between UI, service, repository, and API layers with no circular dependencies
-- **Documentation-driven development** — every feature starts with a doc update; 11 canonical docs stay in sync with code
-- **Built through a 22-step implementation checklist** — each step scoped, tested, verified, and reviewed before moving on
-- **Comprehensive testing** — MockWebServer for real HTTP testing, injectable clocks for time-dependent behavior, deterministic AI evals
-- **Designed for evolution** — V1 is conservative (no auto-send), but module boundaries support future automation without rewiring
-
----
-
 ## Tech Stack
 
 | | |
@@ -94,21 +83,6 @@ I built Relay ASA to fix that. It's a JavaFX desktop app that syncs tickets from
 | **AI** | OpenAI Responses API (structured output) |
 | **Logging** | SLF4J + Logback |
 | **Testing** | JUnit 5 + Mockito + MockWebServer |
-
----
-
-## Project Stats
-
-| Metric | Count |
-|--------|-------|
-| Source files | 267 |
-| Tests | 93 |
-| Database tables | 12 |
-| Database migrations | 9 |
-| API integrations | 3 |
-| UI workspaces | 7 |
-| Documentation files | 11 |
-| Commits | 64 |
 
 ---
 
