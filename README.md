@@ -13,13 +13,19 @@
 
 ## Screenshots
 
-| Review Queue | Ticket & Order Tools |
-|:---:|:---:|
-| ![Review Queue](screenshots/review_queue.png) | ![Ticket Tools](screenshots/ticket_tools.png) |
+| Review Queue |
+|:---:|
+| ![Review Queue](screenshots/review_queue.png) |
 
-| Service Catalog | Settings |
+| Ticket & Order Tools |
+| ![Ticket Tools](screenshots/ticket_tools.png) |
+
+| Service Catalog |
 |:---:|:---:|
-| ![Services](screenshots/service_catalog.png) | ![Settings](screenshots/settings.png) |
+| ![Services](screenshots/service_catalog.png) |
+
+| Settings |
+|![Settings](screenshots/settings.png) |
 
 | Business Rules |
 |:---:|
